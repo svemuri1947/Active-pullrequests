@@ -7,6 +7,6 @@ install PyGithub
 
 Create a personal access token
 
-Usage: pygit.py <token> <username/reponame>
+Usage: pygit.py <access token> <username/reponame>
 
 
